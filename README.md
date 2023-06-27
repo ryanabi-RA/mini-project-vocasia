@@ -12,3 +12,7 @@ Demo : https://frontend-miniproject-todolist.vercel.app/
 -  typescript
 
 ## Screenshots
+
+![Login Page](./halaman%20login.png "Home Page")
+![Home Page](./halaman%20utama.png "Home Page")
+![Modal create](./form%20menambahkan%20tugas.png "Home Page")
